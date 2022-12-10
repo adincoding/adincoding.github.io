@@ -71,7 +71,7 @@ header ul li a:hover {
     color: #ffff;
 }
 .benner {
-    height: 140vh;
+    height: 180vh;
     background-image: url('background.jpg');
     background-size: cover;
     position: relative;
